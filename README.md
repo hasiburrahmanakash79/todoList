@@ -14,12 +14,6 @@ This is a simple Task Manager application built with React. It allows users to a
 
 The application uses React's `useState` and `useEffect` hooks for state management and side effects respectively. The tasks are stored in the local storage, so they persist across browser sessions.
 
-## How to Run
-
-1. Clone the repository.
-2. Install the dependencies using `npm install`.
-3. Start the application using `npm start`.
-
 ## Code Structure
 
 The main component is `App`. It maintains the state of the tasks and provides the functionality for the features mentioned above. The UI is built using JSX and styled with Tailwind CSS.
